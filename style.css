@@ -1,0 +1,16 @@
+body{
+    background-color: plum;
+    color:black;
+}
+.heading{
+    font-size: 20px;
+    width: 80%;
+}
+#camera{
+    border: 2px dotted sienna;
+    width: 350px;
+    height: 300px;
+}
+.nameofobjects,#result_name,#result_accuracy{
+    color: brown;
+}
